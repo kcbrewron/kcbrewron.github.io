@@ -1,9 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to KcBrewRon's Pages
 
-You can use the [editor on GitHub](https://github.com/kcbrewron/kcbrewron.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Here you'll be able to follow my projects and learn about any status changes to my projects. I'm beginning to learn git and markdown. My company has used subversion so this is all a bit new to me but I feel that it is the way to go to build new and better skills going forward.
+```
+-Code
+-Java
+  -Spring Microservices
+  -Content Management
+  -TodoApp
+-JavaScript
+  -Playground
+-Python -nothing here yet, but I'd like to learn more
+-Ruby -I'd like to get involved in some projects on the app sec side of things and see the msf framework as way to do that.
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
