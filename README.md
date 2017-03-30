@@ -6,9 +6,9 @@ forward.
 ## Java
 ### Projects
 ```
-  -Spring Microservices
-  -Content Management
-  -TodoApp
+  -Spring Microservices - work with Spring and Spring boot to expiriment with new java and spring features
+  -TodoApp - playing with general applicaiton development
+  -Customer Relationship Manager - playing with managing contacts, products and outreacah
 ```
 ## JavaScript
 ### Projects
