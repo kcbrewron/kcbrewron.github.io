@@ -13,7 +13,8 @@ I was born and raised in Kansas City and now live in a suburb. I work for a mutu
 ```
   -Spring Microservices - work with Spring and Spring boot to expiriment with new java and spring features
   -TodoApp - playing with general applicaiton development
-  -Customer Relationship Manager - playing with managing contacts, products and outreacah
+  -Customer Relationship Manager - playing with managing contacts, products and outreach
+  -MealPlanning - app created to automatically plan meals based on tastes and generate weekly meal plan and grocery list
 ```
 ## JavaScript
 ### Projects
