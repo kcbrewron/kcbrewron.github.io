@@ -29,3 +29,4 @@ I was born and raised in Kansas City and now live in a suburb. I work for a mutu
 -I'd like to get involved in some projects on the app sec side of things and see the msf framework as way to do that.
 ```
 
+You can even [link to meal plan!](https://kcbrewron.github.io/blob/master/ThisWeeksMealPlan.md)
