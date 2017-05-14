@@ -7,42 +7,42 @@ Breakfasts => premade ham and cheese breakfast pockets
 
 # Ingredients
 * Meat
-  [ ] chicken breast (two cups, 3 breasts)
+- [ ] chicken breast (two cups, 3 breasts)
   
-  [ ] thighs 6
+- [ ] thighs 6
   
-  [ ] deli ham
+- [ ] deli ham
   
-  [ ] bacon
+- [ ] bacon
   
-  [ ] sausage
+- [ ] sausage
 
 * Produce
-  [ ] avocado
+- [ ] avocado
   
-  [ ] cilantro
+- [ ] cilantro
   
-  [ ] fresh basil
+- [ ] fresh basil
   
-  [ ] pint cherry tomatoes
+- [ ] pint cherry tomatoes
   
-  [ ] cucumber
+- [ ] cucumber
 
 * Aisles
-  [ ] Large tortillas
+- [ ] Large tortillas
   
-  [ ] frozen corn
+- [ ] frozen corn
   
-  [ ] italian dressing
+- [ ] italian dressing
   
-  [ ] fettucine
+- [ ] fettucine
 
 
 * Dairy
-  [ ] grated cheese for burritos
+- [ ] grated cheese for burritos
   
-  [ ] eggs
+- [ ] eggs
   
-  [ ] heavy cream (have already)
+- [ ] heavy cream (have already)
   
-  [ ] 1/4 cup parmesan cheese grated
+- [ ] 1/4 cup parmesan cheese grated
