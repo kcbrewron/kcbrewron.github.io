@@ -2,10 +2,11 @@
  Yes I could use the man pages but I want to keep track of some key commands
 
  ## ls
+
+ * man ls
  List items in a directory
 
-*ls
-
+* ls
   -- List items 
 
 * ls -a
